@@ -1,0 +1,30 @@
+{
+  "name": "so-jest-async-handler",
+  "version": "1.0.0",
+  "description": "StackOverflow Answer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teneff/so-jest-async-handler.git"
+  },
+  "keywords": [
+    "StackOverflow",
+    "Answer",
+    "Question",
+    "jest",
+    "async"
+  ],
+  "author": "Stefan Teneff <st.teneff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teneff/so-jest-async-handler/issues"
+  },
+  "homepage": "https://github.com/Teneff/so-jest-async-handler#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.3.0"
+  }
+}
